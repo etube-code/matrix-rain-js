@@ -27,15 +27,15 @@ This project recreates the iconic Matrix code rain with a strong focus on visual
 - 📐 **Responsive canvas**
   - Automatically adapts to window resize
 - ⚡ **Optimized & lightweight**
-  - Single HTML file
+  - Split into HTML, CSS, and JS for maintainability
   - No external dependencies
 
 ---
 
-## 🖥️ Demo
+## 🖥️ How to Run
 
-You can run the effect locally by simply opening the HTML file:
-
-```bash
-open index.html
+1. **Download or clone the project**
+   ```bash
+   git clone https://github.com/etube-code/matrix-rain-js.git
+   cd matrix-rain-js
 
